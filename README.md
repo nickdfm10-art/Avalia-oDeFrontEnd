@@ -115,6 +115,3 @@ https://nickdfm10-art.github.io/Avalia-oDeFrontEnd/
 ## Repositório GitHub
 
 https://github.com/nickdfm10-art/Avalia-oDeFrontEnd
-
-https://github.com/nickdfm10-art/Avalia-oDeFrontEnd
-https://github.com/seu-usua
