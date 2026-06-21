@@ -108,11 +108,8 @@ Após a validação dos dados:
 
 ## Link para Acesso ao GitHub Pages
 
-Após a publicação do projeto, inserir o link abaixo:
-
 **GitHub Pages:**
-https://seu-usuario.github.io/InstaOptimize/
-
+https://nickdfm10-art.github.io/Avalia-oDeFrontEnd/
 ---
 
 ## Repositório GitHub
