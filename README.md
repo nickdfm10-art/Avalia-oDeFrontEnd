@@ -114,6 +114,7 @@ https://nickdfm10-art.github.io/Avalia-oDeFrontEnd/
 
 ## Repositório GitHub
 
-Após a criação do repositório público, inserir o link abaixo:
+https://github.com/nickdfm10-art/Avalia-oDeFrontEnd
 
-https://github.com/seu-usuario/InstaOptimize
+https://github.com/nickdfm10-art/Avalia-oDeFrontEnd
+https://github.com/seu-usua
